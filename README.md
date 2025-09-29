@@ -8,22 +8,8 @@ O objetivo principal deste projeto é criar uma interface de quiz onde o usuári
 
 A estrutura de pastas e arquivos do projeto é organizada da seguinte forma:
 
-src/
-├─ components/
-│  ├─ Header/
-│  │  ├─ index.jsx         # Componente que exibe o título do quiz e o cabeçalho
-│  │  └─ Header.module.css # Estilos do componente Header
-│  ├─ QuestionCard/
-│  │  ├─ index.jsx         # Componente para exibir cada pergunta com opções
-│  │  └─ QuestionCard.module.css # Estilos do componente QuestionCard
-│  ├─ ScoreBoard/
-│  │  ├─ index.jsx         # Componente que exibe a pontuação do usuário
-│  │  └─ ScoreBoard.module.css # Estilos do componente ScoreBoard
-├─ data/
-│  └─ questions.js         # Arquivo contendo as perguntas e respostas do quiz
-├─ App.jsx                 # Componente principal que integra todos os outros
-├─ App.module.css          # Estilos globais da aplicação
-├─ main.jsx                # Arquivo de entrada da aplicação
+<img width="324" height="558" alt="image" src="https://github.com/user-attachments/assets/355d757d-1544-42c6-a4ae-c48357b421f0" />
+
 
 **Detalhes dos Componentes:**
 
