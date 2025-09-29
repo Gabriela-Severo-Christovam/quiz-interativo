@@ -1,8 +1,7 @@
 const questions = [
     {
     id: 1,
-    question: "Qual hook é usado para gerenciar estados em componentes",
-    funcionais?,
+    question: "Qual hook é usado para gerenciar estados em componentes funcionais?",
     options: ["useEffect", "useState", "useProps", "useClass"],
     answer: "useState",
     points: 2
