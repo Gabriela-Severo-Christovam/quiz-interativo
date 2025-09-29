@@ -8,7 +8,8 @@ Estrutura dos Componentes
 
 A estrutura de pastas e arquivos do projeto é organizada da seguinte forma:
 
-image
+<img width="295" height="561" alt="image" src="https://github.com/user-attachments/assets/94c45a64-d242-4138-bd3e-097b4f386fc0" />
+
 
 Detalhes dos Componentes:
 
