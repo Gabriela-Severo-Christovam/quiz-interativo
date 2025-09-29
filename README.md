@@ -1,17 +1,17 @@
-Projeto Quiz
+**Projeto Quiz**
 
-Objetivo do Projeto
+**Objetivo do Projeto**
 
 O objetivo principal deste projeto é criar uma interface de quiz onde o usuário pode responder perguntas e ver o seu desempenho com base nas respostas fornecidas. Cada pergunta possui múltiplas opções e o usuário recebe uma pontuação ao final, com a exibição de um placar de acertos.
 
-Estrutura dos Componentes
+**Estrutura dos Componentes**
 
 A estrutura de pastas e arquivos do projeto é organizada da seguinte forma:
 
 <img width="295" height="561" alt="image" src="https://github.com/user-attachments/assets/94c45a64-d242-4138-bd3e-097b4f386fc0" />
 
 
-Detalhes dos Componentes:
+**Detalhes dos Componentes:**
 
 Header: Exibe o título do quiz e informações básicas de introdução.
 
