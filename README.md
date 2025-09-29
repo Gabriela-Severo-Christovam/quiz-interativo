@@ -1,16 +1,25 @@
-# React + Vite
+Projeto Quiz
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Objetivo do Projeto
 
-Currently, two official plugins are available:
+O objetivo principal deste projeto é criar uma interface de quiz onde o usuário pode responder perguntas e ver o seu desempenho com base nas respostas fornecidas. Cada pergunta possui múltiplas opções e o usuário recebe uma pontuação ao final, com a exibição de um placar de acertos.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Estrutura dos Componentes
 
-## React Compiler
+A estrutura de pastas e arquivos do projeto é organizada da seguinte forma:
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+image
 
-## Expanding the ESLint configuration
+Detalhes dos Componentes:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Header: Exibe o título do quiz e informações básicas de introdução.
+
+QuestionCard: Exibe cada pergunta do quiz, com as opções para o usuário escolher. Quando o usuário seleciona uma resposta, ele recebe feedback.
+
+ScoreBoard: Mostra a pontuação final do usuário ao término do quiz.
+
+Tecnologias Utilizadas
+
+JavaScript (JS) e JSX: Para criar os componentes e a lógica da aplicação.
+
+CSS Modules: Para estilização modularizada de cada componente, permitindo a criação de estilos específicos para cada um sem afetar outros componentes.
